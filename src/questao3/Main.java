@@ -1,5 +1,5 @@
-import questao3.Bebida;
-import questao3.Pedido;
+package questao3;
+
 import questao3.bases.Cha;
 import questao3.bases.Expresso;
 import questao3.complementos.AcucarDecorator;
